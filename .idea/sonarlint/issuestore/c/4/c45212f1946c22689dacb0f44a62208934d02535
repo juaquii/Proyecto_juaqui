@@ -1,0 +1,15 @@
+
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.( œ¶Ë8±ï±¿õ1J$a26acccf-b681-492a-98c2-9a644e7a7632
+Ê
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(æÔ«÷şÿÿÿÿ8Çï±¿õ1J$3b8112a3-5212-42bb-b496-9c77caae43cc
+
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ÉòÜèüÿÿÿÿ8Íï±¿õ1J$13215261-2bd8-4b8a-83ed-87428aa3eb62
+ˆ
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(±ÃœØ8Îï±¿õ1J$b8e18967-ab51-4557-a2b3-3d3e54932b05
+
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(›ô¾İÿÿÿÿÿ8Ğï±¿õ1J$bfb95fdc-ebcf-4006-bfde-096df10d9697
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(®ŸõÒûÿÿÿÿ8Ñª²¿õ1J$6d4f9f68-851a-4f61-9d33-6c98448b7dd8
+ˆ
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(Î¥ïÃ8Ğï±¿õ1J$b4bd39da-57a8-4204-af76-27b5c3ea8c66
+
+java:S3252""HUse static access with "java.sql.Statement" for "RETURN_GENERATED_KEYS".(Ó‘¿¤øÿÿÿÿ8×ï±¿õ1J$729dc353-8319-4131-8dac-b5ba6dbc5155

@@ -1,0 +1,6 @@
+
+•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.( œ¶ËJ$f73722b0-c3ef-485f-aa99-f0e101764976
+e
+java:S1128"CRemove this unused import 'com.github.juaquii.Model.entity.Player'.(ƒöî…ýÿÿÿÿ8Û ®¿õ1
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8Û ®¿õ1

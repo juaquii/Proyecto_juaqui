@@ -1,0 +1,12 @@
+
+”	java:S101
+"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(â†Øùÿÿÿÿ8’ß¿õ1J$643a3f10-ff1b-4430-a834-d5e8474aff97
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¦¶™å8’ß¿õ1J$a1ddb09c-89e1-4156-bb73-ffce78827001
+‹
+java:S2095"HUse try-with-resources or close this "ManagerDAO" in a "finally" clause.(êŞ³ğ8£®ò¿õ1J$3cd63aa3-6444-4044-878f-d45c0f71bb3e
+†
+java:S1128"CRemove this unused import 'com.github.juaquii.Model.dao.PlayerDAO'.(õßëª8´®ò¿õ1J$90ab936b-af3f-4041-8cef-1d5fb9850713
+‹
+java:S1128"CRemove this unused import 'com.github.juaquii.Model.entity.Player'.(ƒöî…ıÿÿÿÿ8µ®ò¿õ1J$49910ea2-7dec-4205-883a-3a1ae16e2998
+‰
+java:S1128"ARemove this unused import 'com.github.juaquii.Model.entity.Team'.(ÙÃ¼İÿÿÿÿÿ8µ®ò¿õ1J$fd2611ee-a967-4c0a-86eb-cd1e42d07568

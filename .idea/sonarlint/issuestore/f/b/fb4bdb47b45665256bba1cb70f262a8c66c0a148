@@ -1,0 +1,8 @@
+
+•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(İˆ‚¢J$5f2559cb-3063-4bee-8ad7-e87265598ce3
+	java:S116"NRename this field "Idj" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°„‘ÕøÿÿÿÿJ$d1f2a575-d94e-47e2-8346-c46b7eb56f8e
+	java:S116"PRename this field "Media" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íŞ¼ûÿÿÿÿJ$b611675e-fdab-4a59-8fac-5235b00e1694
+“	java:S116"SRename this field "Posicion" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÚªÌ‡úÿÿÿÿJ$3990fc54-5aa8-46f5-b693-ae7904082f87
+—	java:S116	"\Rename this field "HabilidadEspecial" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Í”´ñJ$62a7fa32-5be7-4752-9347-43d082a89104
+Œ
+java:S12066"PThis class overrides "hashCode()" and should therefore also override "equals()".(ğÜşŠJ$0c0edd2b-9dfd-4bed-b3de-0e2620bef9cb

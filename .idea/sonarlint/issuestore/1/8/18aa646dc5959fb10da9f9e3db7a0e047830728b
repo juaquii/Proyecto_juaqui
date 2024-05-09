@@ -1,0 +1,10 @@
+
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.( œ¶Ë8Ë†¿õ1J$adfb3622-dbba-4183-856a-d1e523805831
+‡
+java:S2583Q"DChange this condition so that it does not always evaluate to "false"(¼éÄû8É·‘¿õ1J$8139d94f-89eb-49cc-b31f-f1d161ff9a10
+Ê
+java:S1186¤"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(æÔ«÷şÿÿÿÿ8¨Ë†¿õ1J$27cc14c6-3bd9-4354-95b8-5a5e83dbbae3
+m
+java:S1068"*Remove this unused "UPDATE" private field.(‡êÕÓ8µÁ˜¿õ1J$785a8a28-1020-471d-aad9-d6fc07326f28
+x
+java:S1068"0Remove this unused "FINDBYAUTHOR" private field.(¦Éïáúÿÿÿÿ8ÁË†¿õ1J$60fee441-ebee-4757-935b-6804eb51118d

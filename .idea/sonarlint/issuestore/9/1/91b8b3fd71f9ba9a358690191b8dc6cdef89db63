@@ -1,0 +1,13 @@
+
+š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¥Ğ¨«üÿÿÿÿJ$59e58410-4b36-48a4-9873-195b128e10b8
+•
+java:S3008"TRename this field "_instance" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õ ÅùÿÿÿÿJ$d847c48d-a7db-42ca-a9ca-38333fda67fc
+†
+java:S1124
+"EReorder the modifiers to comply with the Java Language Specification.(¬»˜ùÿÿÿÿJ$3482f39d-4110-4e23-9c63-b73b46d78686
+b
+java:S3010"!Remove this assignment of "conn".(æ‰¢ÙüÿÿÿÿJ$9a535b5a-4f48-491b-b546-278c3d3ca81f
+b
+java:S3010"!Remove this assignment of "conn".(€×³›ÿÿÿÿÿJ$0d5eff1a-1974-453e-9557-564cd17ce0ce
+
+java:S1905"7Remove this unnecessary cast to "ConnectionProperties".(ä¼úşÿÿÿÿ8Ç²İ½õ1J$6c99167c-e9b1-4367-9f51-ae51de52c64f

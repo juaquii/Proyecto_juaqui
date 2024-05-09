@@ -1,0 +1,11 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ýˆ‚¢
+m	java:S116"SRename this field "Idequipo" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„˜³øÿÿÿÿÿ
+q	java:S116"WRename this field "Nombreequipo" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñÚâ©ýÿÿÿÿ
+k	java:S116	"VRename this field "Mediaequipo" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ù†Þ…
+m	java:S116
+"SRename this field "Managers" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®óœôþÿÿÿÿ
+œ
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ž‹ Ôøÿÿÿÿ
+f
+java:S12060"PThis class overrides "hashCode()" and should therefore also override "equals()".(ðÜþŠ

@@ -6,10 +6,10 @@ import javax.xml.bind.Unmarshaller;
 import java.io.File;
 
 public class XMLManager {
-    public static <T> boolean writeXML(T c,String filename){
+    public static <T> boolean writeXML(T c, String filename){
         boolean result=false;
         JAXBContext context;
-        try{
+        try {
             context = JAXBContext.newInstance(c.getClass());
             Marshaller m = context.createMarshaller();
             m.setProperty(Marshaller.JAXB_FORMATTED_OUTPUT,true);
@@ -21,7 +21,6 @@ public class XMLManager {
         }
         return result;
     }
-
     public static<T> T readXML(T c,String filename){
         T result = c;
         JAXBContext context;
@@ -34,5 +33,4 @@ public class XMLManager {
             e.printStackTrace();
         }
         return result;
-    }
-}
+    }}

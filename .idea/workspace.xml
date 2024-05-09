@@ -4,31 +4,91 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="80b35443-592a-4c73-b9fa-d2b19ad5848d" name="Changes" comment="" />
+    <list default="true" id="80b35443-592a-4c73-b9fa-d2b19ad5848d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/juaquii/Model/dao/ManagerDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/juaquii/Model/dao/PlayerDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/juaquii/Model/dao/TeamDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/juaquii/Model/entity/Enum/Calidad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/juaquii/Model/entity/Team.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/juaquii/View/Primarycontroller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/about.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/formAuthor.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/layout.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/main.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/olaa.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/juaquii/Model/dao/AuthorDAO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/juaquii/Model/dao/BookDAO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/juaquii/Model/dao/DAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/github/juaquii/Model/dao/DAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/juaquii/Model/entity/Manager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/github/juaquii/Model/entity/Manager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/juaquii/Model/entity/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/github/juaquii/Model/entity/Player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/juaquii/Model/test/loadConnection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/github/juaquii/Test/loadConnection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/juaquii/Model/test/saveConnection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/github/juaquii/Test/saveConnection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/juaquii/Model/test/test1Insert.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/github/juaquii/Test/test1Insert.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/juaquii/Model/test/test2Insert.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/juaquii/Model/test/testCascade.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/juaquii/Model/test/testLazy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/juaquii/Model/test/testSELECT.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/juaquii/Model/test/testSELECTEager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/juaquii/Model/test/tests2SELECT.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/juaquii/utils/XMLManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/github/juaquii/utils/XMLManager.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2faLgLXr4ew3QZ17eueTTLyX9Fn" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "juaqui1",
+    "last_opened_file_path": "C:/Users/joaqu/IdeaProjects/Proyecto_juaqui/src/main/java/com/github/juaquii/Test",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.github.juaquii.Model.dao" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\joaqu\IdeaProjects\Proyecto_juaqui\src\main\java\com\github\juaquii\Test" />
+      <recent name="C:\Users\joaqu\IdeaProjects\Proyecto_juaqui\src\main\resources" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -39,5 +99,8 @@
       <updated>1714034351714</updated>
     </task>
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
